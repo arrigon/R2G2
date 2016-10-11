@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<GroundOverlay>
+	<name>Image</name>
+	<color>b2ffffff</color>
+	<Icon>
+		<href>1BL00AEG.1.jpg</href>
+	</Icon>
+	<LatLonBox>
+		<north>36.849</north>
+		<south>36.695</south>
+		<east>-5.147</east>
+		<west>-5.626</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>

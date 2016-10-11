@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:kml="http://www.opengis.net/kml/2.2"
+xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>R2G2 - Custom Plots</name>
+	<description>Produced using Plots2GE R script</description>
+	<Style id="graph1">
+		<IconStyle>
+			<scale>7</scale>
+			<Icon>
+				<href>Plots2GE_V1.kml1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+ 	<Style id="graph2">
+		<IconStyle>
+			<scale>7</scale>
+			<Icon>
+				<href>Plots2GE_V1.kml2.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+ 	<Style id="graph3">
+		<IconStyle>
+			<scale>7</scale>
+			<Icon>
+				<href>Plots2GE_V1.kml3.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+ 	<Placemark>
+		<name>group1</name>
+			<styleUrl>#graph1</styleUrl>
+		<Point>
+			<coordinates>1.5,1.5,0</coordinates>
+		</Point>
+	</Placemark> 	<Placemark>
+		<name>group2</name>
+			<styleUrl>#graph2</styleUrl>
+		<Point>
+			<coordinates>3.5,3.5,0</coordinates>
+		</Point>
+	</Placemark> 	<Placemark>
+		<name>group3</name>
+			<styleUrl>#graph3</styleUrl>
+		<Point>
+			<coordinates>5.5,5.5,0</coordinates>
+		</Point>
+	</Placemark>	</Document>
+</kml>

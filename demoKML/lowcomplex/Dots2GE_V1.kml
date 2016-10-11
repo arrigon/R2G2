@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document><description>Produced using Phylo2GE R script</description>
+<name>R2G2 - Phylo2GE</name>
+<open>0</open><Placemark> 
+ <name> A </name> 
+<styleUrl>#msn_grn-pushpin</styleUrl> 
+<Point> 
+<coordinates>1,1</coordinates>
+</Point> 
+</Placemark> 
+<Placemark> 
+ <name> B </name> 
+<styleUrl>#msn_grn-pushpin</styleUrl> 
+<Point> 
+<coordinates>2,2</coordinates>
+</Point> 
+</Placemark> 
+<Placemark> 
+ <name> C </name> 
+<styleUrl>#msn_grn-pushpin</styleUrl> 
+<Point> 
+<coordinates>3,3</coordinates>
+</Point> 
+</Placemark> 
+<Placemark> 
+ <name> D </name> 
+<styleUrl>#msn_grn-pushpin</styleUrl> 
+<Point> 
+<coordinates>4,4</coordinates>
+</Point> 
+</Placemark> 
+<Placemark> 
+ <name> E </name> 
+<styleUrl>#msn_grn-pushpin</styleUrl> 
+<Point> 
+<coordinates>5,5</coordinates>
+</Point> 
+</Placemark> 
+<Placemark> 
+ <name> F </name> 
+<styleUrl>#msn_grn-pushpin</styleUrl> 
+<Point> 
+<coordinates>6,6</coordinates>
+</Point> 
+</Placemark> 
+</Document> 
+ </kml>
